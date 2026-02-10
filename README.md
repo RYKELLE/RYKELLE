@@ -1,8 +1,7 @@
 # Hi, I'm Rykelle Ruelan 👋
 
 🎓 Computer Science Student  
-🌐 Web Development — Frontend focused  
-⚙️ Currently learning more about Backend
+🌐 Aspiring Software Developer
 
 
 ## 💻 Programming Languages
