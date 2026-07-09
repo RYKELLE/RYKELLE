@@ -1,6 +1,6 @@
 # Hi, I'm Rykelle Ruelan 👋
 
-🎓 Computer Science Student  
+🎓 Computer Science Graduate 
 🌐 Aspiring Software Developer
 
 
